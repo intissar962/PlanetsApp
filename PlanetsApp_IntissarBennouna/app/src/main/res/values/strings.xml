@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlanetsApp</string>
+    <string name="hint_word">Planet...</string>
+    <string name="button_save">Save</string>
+    <string name="add_word">Add Planet</string>
+    <string name="empty_not_saved">Planet not saved because it is empty.</string>
+    <string name="search_button">Recherche</string>
+</resources>
